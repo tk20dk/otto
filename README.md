@@ -1,2 +1,2 @@
 # otto
-433MHz 1W LoRa USB gateway
+433MHz high power LoRa USB gateway
